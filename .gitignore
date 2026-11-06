@@ -1,0 +1,9 @@
+# Compiled executable
+app
+
+# Debugging files
+*.dSYM/
+
+# Other generated files
+my program
+.vscode/
